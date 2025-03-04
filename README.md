@@ -1,2 +1,2 @@
-# O Projeto de consrtução de conhecimento.
-Documento de cascunho para algumas ideias. 
+# O Projeto de constução de conhecimento.
+Documento de rascunho para algumas ideias. 
