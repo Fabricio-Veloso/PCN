@@ -44,7 +44,8 @@ _O projeto está  dividido nesses 3 frontes:_
 
 - Pense, por exemplo, nas divergências entre escolas como misesianos, rothbardianos e hoppeanos: muitas vezes o que muda não é o princípio, mas a **interpretação prática**. E sem registros claros dessas interpretações, surgem ruídos, retrabalho e perda de profundidade.
 - Além disso, a ausência de formalização aumenta o custo de ensinar, discutir e evoluir ideias — dificultando a **passagem de bastão** para novos participantes, e enfraquecendo a capacidade da comunidade de construir saber real e acumulativo.
-- Os DFIs não servem apenas para interpretar ideias conceituais ou decisões práticas. Eles também são essenciais para **formalizar os próprios processos internos** da comunidade.
+- Para lidar com esse desafio, o projeto propões o uso da criação e contrução de Documentos de formalização interpretativa ou DFI.
+- Os DFIs não servem apenas para interpretar ideias conceituais ou decisões práticas. Eles também são essenciais para **formalizar os próprios processos internos** do próprio projeto(Eles devem ser feitos com base no que é dicutido e concluído nos nós).
 - Podem, por exemplo, descrever:
 	- como um nó é constituído e administrado;
 	- quais tipos de votação são aceitáveis para determinados temas;
