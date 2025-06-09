@@ -81,4 +81,4 @@ Ou seja, **o processo se torna parte do próprio processo**. A forma como se bus
 - Imagine contribuir com textos e documentos importantes que podem ecoar por gerações sendo basalmente importantes para a cultura da comunidade.
 - Imagine se fizermos  vídeos para explicar DFI's importantes para a comunidade, aumentando massivamente a capacidade de assimilação e compreensão por novos e possíveis novos membros. 
 ## O que é requerido
-- Formar o primeiro nós para começar a construir tudo isso, com calma, parte por parte, testando e dando início ao processo. 
+- Formar o primeiro nó para começar a construir tudo isso, com calma, parte por parte, testando e dando início ao processo. 
